@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name":"El Principito",
+        "author":"Antoine de Saint-Exupéry",
+        "price":15,
+        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2Fprincipito-Edici%25C3%25B3n-bolsillo-Antoine-Saint-Exup%25C3%25A9ry%2Fdp%2F8498381495&psig=AOvVaw3Y_YHGwVAgNamE16bw65oU&ust=1712597069900000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi7tLDPsIUDFQAAAAAdAAAAABAE",
+        "quanty":1
+    },
+    {
+        "id": 2,
+        "name":"La Luz que no puedes ver",
+        "author":"Anthony Doerr",
+        "price":20,
+        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buscalibre.com.mx%2Flibro-la-luz-que-no-puedes-ver%2F9789569585159%2Fp%2F47014556&psig=AOvVaw1whfgTHXMaLn6mdvgfgnX7&ust=1712597135535000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiSns_PsIUDFQAAAAAdAAAAABAK",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name":"El Visitante",
+        "author":"Stephen King",
+        "price":17,
+        "img":"https://libroveolibroleo.com/wp-content/uploads/2022/03/El-visitante-391x600.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name":"Viaje al Centro de la Tierra",
+        "author":"Julio Verne",
+        "price":25,
+        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FViaje-al-centro-tierra%2Fdp%2F8467050667&psig=AOvVaw2ZwTTLyRixNQA8T0QY5_WO&ust=1712597293420000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiiiJrQsIUDFQAAAAAdAAAAABAE.jpg",
+        "quanty": 1
+    }
+
+]
